@@ -1,0 +1,11 @@
+Partial sum at processor 2 is 25050
+Partial sum at processor 5 is 55050
+Partial sum at processor 6 is 65050
+Partial sum at processor 4 is 45050
+Partial sum at processor 7 is 75050
+Partial sum at processor 8 is 85050
+Partial sum at processor 9 is 95050
+Partial sum at processor 3 is 35050
+Partial sum at processor 1 is 15050
+Partial sum at processor 0 is 5050
+The sum is 500500

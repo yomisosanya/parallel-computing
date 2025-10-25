@@ -1,8 +1,10 @@
-source := parallelSum.c
-target := parallelSum
-
-$(target):
-	mpicc $(source) -o $(target)
-
+CC = mpicc
+TARGET = parallelSum
+FLAGS = -o $(TARGET)
+SOURCE = parallelSum.c
+$(TARGET):
+	$(CC) $(FLAGS) $(SOURCE)
+	@echo "$(TARGET) created"
 clean:
-	rm -f $(target)
+	rm $(TARGET)
+	@echo "$(TARGET) removed"

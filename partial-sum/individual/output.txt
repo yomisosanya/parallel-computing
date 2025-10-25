@@ -1,0 +1,29 @@
+Partial sum from processor 1 is: 15050
+Send 15050 to processor 0 from processor 1
+Partial sum from processor 2 is: 25050
+Send 25050 to processor 0 from processor 2
+Partial sum from processor 3 is: 35050
+Send 35050 to processor 0 from processor 3
+Partial sum from processor 4 is: 45050
+Send 45050 to processor 0 from processor 4
+Partial sum from processor 5 is: 55050
+Send 55050 to processor 0 from processor 5
+Partial sum from processor 6 is: 65050
+Send 65050 to processor 0 from processor 6
+Partial sum from processor 7 is: 75050
+Send 75050 to processor 0 from processor 7
+Partial sum from processor 8 is: 85050
+Send 85050 to processor 0 from processor 8
+Partial sum from processor 9 is: 95050
+Send 95050 to processor 0 from processor 9
+Partial sum from processor 0 is: 5050
+Received 15050 from processor 1
+Received 25050 from processor 2
+Received 35050 from processor 3
+Received 45050 from processor 4
+Received 55050 from processor 5
+Received 65050 from processor 6
+Received 75050 from processor 7
+Received 85050 from processor 8
+Received 95050 from processor 9
+The parallel sum is 500500

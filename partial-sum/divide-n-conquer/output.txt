@@ -1,0 +1,29 @@
+Processor 4 received 128 data from processor 0
+Processor 4 sends 64 data to processor 6
+Processor 4 sends 32 data to processor 5
+Processor 6 received 64 data from processor 4
+Processor 6 sends 32 data to processor 7
+Processor 6 recieved partial sum 7696 from processor 7
+Processor 6 sent partial sum 14368 to processor 4
+Processor 5 received 32 data from processor 4
+Processor 5 sent partial sum 5648 to processor 4
+Processor 4 recieved partial sum 5648 from processor 5
+Processor 4 recieved partial sum 14368 from processor 6
+Processor 4 sent partial sum 24640 to processor 0
+Processor 7 received 32 data from processor 6
+Processor 7 sent partial sum 7696 to processor 6
+Processor 0 sends 128 data to processor 4
+Processor 0 sends 64 data to processor 2
+Processor 0 sends 32 data to processor 1
+Processor 0 recieved partial sum 1552 from processor 1
+Processor 2 received 64 data from processor 0
+Processor 2 sends 32 data to processor 3
+Processor 1 received 32 data from processor 0
+Processor 1 sent partial sum 1552 to processor 0
+Processor 3 received 32 data from processor 2
+Processor 3 sent partial sum 3600 to processor 2
+Processor 2 recieved partial sum 3600 from processor 3
+Processor 2 sent partial sum 6176 to processor 0
+Processor 0 recieved partial sum 6176 from processor 2
+Processor 0 recieved partial sum 24640 from processor 4
+The sum is 32896
